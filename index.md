@@ -1,4 +1,4 @@
-### My GitHub Page
+### My GitHub Page {#custom-id}
 
 You can use the [editor on GitHub](https://github.com/khill365/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
