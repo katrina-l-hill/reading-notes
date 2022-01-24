@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/khill365/reading-notes/edi
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
 *Reminders to myself*: 
-- [ ] believe that I can do anything I set my mind to
-- [ ] stay focused
-- [ ] ==take my time==.
+- [ ]  believe that I can do anything I set my mind to,
+- [ ]  stay focused,
+- [ ]  lastly, ==take my time==.
 
 
 
