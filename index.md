@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/khill365/reading-notes/edi
 *Reminders to myself*: 
 - [ ]  believe that I can do anything I set my mind to,
 - [ ]  stay focused,
-- [ ]  lastly, ==take my time==.
+- [ ]  lastly, take my time smiling_face_with_smiling_eyes:.
 
 
 
