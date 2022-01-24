@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/khill365/reading-notes/edi
 *Reminders to myself*: 
 - [ ]  believe that I can do anything I set my mind to,
 - [ ]  stay focused,
-- [ ]  lastly, take my time smiling_face_with_smiling_eyes:.
+- [ ]  lastly, take my time :bowtie:.
 
 Katrina Hill, she/her, Snohomish, WA, PST
 US Navy Veteran, former IT network administrator, Environmental Scientist by education but currently a substitute teacher. I moved to WA with my family last year.
