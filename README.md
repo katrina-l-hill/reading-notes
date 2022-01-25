@@ -3,9 +3,9 @@
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
 ## *Reminders to myself*: <br>
-- [ ]  believe that I can do anything I set my mind to,
+- [ ]  believe that I can do anything I set my mind to 🙂,
 - [ ]  stay focused,
-- [ ]  lastly, take my time :bowtie:.
+- [ ]  lastly, take my time.
 
 ## Bio: <br>
 Katrina Hill, she/her, Snohomish, WA, PST <br>
