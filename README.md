@@ -14,4 +14,4 @@ Windows 10 Pro, version 20H2 <br>
 I'm excited to learn something new and to get back into the computer world. <br>
 https://khill365.github.io/reading-notes/ <br>
 I love pizza. <br>
-![Pizza!](https://en.wikipedia.org/wiki/Pizza#/media/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg)
+![Pizza!](assets/css/style css/https://en.wikipedia.org/wiki/Pizza#/media/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg)
