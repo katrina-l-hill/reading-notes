@@ -1,4 +1,4 @@
-### My GitHub Page
+# My GitHub Page
 
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
@@ -7,7 +7,7 @@
 - [ ]  stay focused,
 - [ ]  lastly, take my time.
 
-## Bio: <br>
+### Bio: <br>
 Katrina Hill, she/her, Snohomish, WA, PST <br>
 US Navy Veteran, former IT network administrator, Environmental Scientist by education but currently a substitute teacher. I moved to WA with my family last year. <br>
 Windows 10 Pro, version 20H2 <br>
