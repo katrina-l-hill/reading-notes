@@ -5,14 +5,15 @@ You can use the [editor on GitHub](https://github.com/khill365/reading-notes/edi
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
 *Reminders to myself*: 
-- [ ]  believe that I can do anything I set my mind to,
-- [ ]  stay focused,
-- [ ]  lastly, take my time :bowtie:.
+[ ]  believe that I can do anything I set my mind to,
+[ ]  stay focused,
+[ ]  lastly, take my time 🙂:.
 
-Bio:
-Katrina Hill, she/her, Snohomish, WA, PST
-US Navy Veteran, former IT network administrator, Environmental Scientist by education but currently a substitute teacher. I moved to WA with my family last year.
-Windows 10 Pro, version 20H2
-I'm excited to learn something new and to get back into the computer world.
-https://github.com/khill365 
-
+Bio: <br>
+Katrina Hill, she/her, Snohomish, WA, PST <br>
+US Navy Veteran, former IT network administrator, Environmental Scientist by education but currently a substitute teacher. I moved to WA with my family last year. <br>
+Windows 10 Pro, version 20H2 <br>
+I'm excited to learn something new and to get back into the computer world. <br>
+https://github.com/khill365 <br>
+I love pizza <br>
+![alt text](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.…542312378.png?crop=1.00xw:1.00xh;0,0&resize=980:*)
