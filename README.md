@@ -1,7 +1,6 @@
 # My GitHub Reading Notes Page
 (This page includes all my reading notes)
 
-<<<<<<< HEAD
 ## Code 102 Reading Notes
 [Reading Notes 1](https://katrina-l-hill.github.io/reading-notes-Read-01/)  
 [Reading Notes 2](https://katrina-l-hill.github.io/reading-notes-Read-02/)  
@@ -18,24 +17,6 @@
 -  [ ]  believe that I can do anything I set my mind to 🙂,
 -  [ ]  stay focused,
 -  [ ]  lastly, take my time.
-=======
-## ==Code 102 Reading Notes==
-[Reading Notes 1](https://katrina-l-hill.github.io/reading-notes-Read-01/) <br>
-[Reading Notes 2](https://katrina-l-hill.github.io/reading-notes-Read-02/) <br>
-[Reading Notes 3](https://katrina-l-hill.github.io/reading-notes-Read-03/) <br>
-[Reading Notes 4](https://katrina-l-hill.github.io/reading-notes-Read-04/) <br>
-[Reading Notes 5](https://katrina-l-hill.github.io/reading-notes-Read-05/) <br>
-[Reading Notes 6](https://katrina-l-hill.github.io/reading-notes-Read-06/) <br>
-[Reading Notes 7](https://katrina-l-hill.github.io/reading-notes-Read-07/) <br>
-[Reading Notes 8](https://katrina-l-hill.github.io/reading-notes-Read-08/) <br>
-
-**Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
-
-### *Reminders to myself*: <br>
-- [ ] believe that I can do anything I set my mind to 🙂,
-- [ ] stay focused,
-- [ ] lastly, take my time.
->>>>>>> 34b5f55 (added spaces after numbers)
 
 #### Bio:  
 Katrina Hill, she/her, Snohomish, WA, PST  
@@ -47,7 +28,6 @@ I love pizza.
 <img src="https://user-images.githubusercontent.com/98134026/150919778-2179cd29-66fe-4268-bd13-8e70d46e9595.jpg" alt="pizza" style="width:100px;"/>
 
 ---
-<<<<<<< HEAD
 
 ## Code 201 Reading Notes
 
@@ -66,26 +46,4 @@ I love pizza.
 12.  
 13.  
 14.  
-15.  
-=======
-
-## ==Code 201 Reading Notes==
-
-### *Table of Contents for Daily reading assignments*: <br>
-
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
->>>>>>> 34b5f55 (added spaces after numbers)
+15. 
