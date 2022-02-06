@@ -14,9 +14,9 @@
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
 #### *Reminders to myself*:  
-[ ]  believe that I can do anything I set my mind to 🙂,
-[ ]  stay focused,
-[ ]  lastly, take my time.
+- [ ]  believe that I can do anything I set my mind to 🙂,
+- [ ]  stay focused,
+- [ ]  lastly, take my time.
 
 #### Bio:  
 Katrina Hill, she/her, Snohomish, WA, PST  
@@ -32,19 +32,19 @@ I love pizza.
 ## Code 201 Reading Notes
 
 #### *Table of Contents for Daily Reading Assignments*: <br>
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10.  
-11.  
-12.  
-13.  
-14.  
-15.  
-
+| Number   | Description               |
+| -------- | ------------------------- |
+|1.        | Placeholder description   |
+|2.        | Placeholder               |
+|3.        | Placeholder               |
+|5.        | Placeholder               |
+|6.        | Placeholder               |
+|7.        | Placeholder               |
+|8.        | Placeholder               |
+|9.        | Placeholder               |
+|10.       | Placeholder               |
+|11.       | Placeholder               |
+|12.       | Placeholder               |
+|13.       | Placeholder               |
+|14.       | Placeholder               |
+|15.       | Placeholder               |
