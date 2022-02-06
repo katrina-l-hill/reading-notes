@@ -1,4 +1,5 @@
 # My GitHub Reading Notes Page
+(This page includes all my reading notes)
 
 ## Code 102 Reading Notes
 [Reading Notes 1](https://katrina-l-hill.github.io/reading-notes-Read-01/) <br>
@@ -25,3 +26,8 @@ I'm excited to learn something new and to get back into the computer world. <br>
 GitHub: https://github.com/katrina-l-hill <br>
 I love pizza. <br>
 <img src="https://user-images.githubusercontent.com/98134026/150919778-2179cd29-66fe-4268-bd13-8e70d46e9595.jpg" alt="pizza" style="width:100px;"/>
+
+## Code 201 Reading Notes
+
+### Table of Contents for Daily reading assignments:
+
