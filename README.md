@@ -2,14 +2,14 @@
 (This page includes all my reading notes)
 
 ## Code 102 Reading Notes
-[Reading Notes 1](https://katrina-l-hill.github.io/reading-notes-Read-01/) <br>
-[Reading Notes 2](https://katrina-l-hill.github.io/reading-notes-Read-02/) <br>
-[Reading Notes 3](https://katrina-l-hill.github.io/reading-notes-Read-03/) <br>
-[Reading Notes 4](https://katrina-l-hill.github.io/reading-notes-Read-04/) <br>
-[Reading Notes 5](https://katrina-l-hill.github.io/reading-notes-Read-05/) <br>
-[Reading Notes 6](https://katrina-l-hill.github.io/reading-notes-Read-06/) <br>
-[Reading Notes 7](https://katrina-l-hill.github.io/reading-notes-Read-07/) <br>
-[Reading Notes 8](https://katrina-l-hill.github.io/reading-notes-Read-08/) <br>
+[Reading Notes 1](https://katrina-l-hill.github.io/reading-notes-Read-01/)  
+[Reading Notes 2](https://katrina-l-hill.github.io/reading-notes-Read-02/)  
+[Reading Notes 3](https://katrina-l-hill.github.io/reading-notes-Read-03/)  
+[Reading Notes 4](https://katrina-l-hill.github.io/reading-notes-Read-04/)  
+[Reading Notes 5](https://katrina-l-hill.github.io/reading-notes-Read-05/)  
+[Reading Notes 6](https://katrina-l-hill.github.io/reading-notes-Read-06/)  
+[Reading Notes 7](https://katrina-l-hill.github.io/reading-notes-Read-07/)  
+[Reading Notes 8](https://katrina-l-hill.github.io/reading-notes-Read-08/)  
 
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
@@ -32,19 +32,19 @@ I love pizza. <br>
 ## ==Code 201 Reading Notes==
 
 #### *Table of Contents for Daily reading assignments*: <br>
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10.  
+11.  
+12.  
+13.  
+14.  
+15.  
 
