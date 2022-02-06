@@ -32,18 +32,18 @@ I love pizza.
 ## Code 201 Reading Notes
 
 #### *Table of Contents for Daily Reading Assignments*: <br>
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10.  
+11.  
+12.  
+13.  
+14.  
+15.  
