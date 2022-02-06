@@ -22,6 +22,6 @@ Katrina Hill, she/her, Snohomish, WA, PST <br>
 US Navy Veteran, former IT network administrator, Environmental Scientist by education but currently a substitute teacher. I moved to WA with my family last year. <br>
 Windows 10 Pro, version 20H2 <br>
 I'm excited to learn something new and to get back into the computer world. <br>
-GitHub: https://github.com/khill365 <br>
+GitHub: https://github.com/katrina-l-hill <br>
 I love pizza. <br>
-![Pizza!](https://user-images.githubusercontent.com/98134026/150919778-2179cd29-66fe-4268-bd13-8e70d46e9595.jpg | width=100px)
+![Pizza!](https://user-images.githubusercontent.com/98134026/150919778-2179cd29-66fe-4268-bd13-8e70d46e9595.jpg | width=100)
