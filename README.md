@@ -32,7 +32,7 @@ I love pizza.
 ## Code 201 Reading Notes
 
 #### *Table of Contents for Daily Reading Assignments*: <br>
-1.  [link](reading-notes/class01.md)
+1.  [class01](./class01.md)
 2.  
 3.  
 4.  
