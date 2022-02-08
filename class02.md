@@ -8,8 +8,8 @@
 -	Structural markup are elements specific to the design of headings and paragraphs.
 -	Semantic markup is used to emphasize different grammar and punctuation points in the text.
 -	These usually aren’t intended to have an affect on the way the page is structured, rather on how the text is presented.
--	HTML has six (6) levels of headings (e.g., <h1> through<h6>), with h1 being the largest font size for a heading.
--	Each level of heading can have a different meaning. For example, <h1> is typically used for a main heading, while <h2>through<h6> are used for subheadings.
+-	HTML has six (6) levels of headings (e.g., h1-h6), with h1 being the largest font size for a heading.
+-	Each level of heading can have a different meaning. For example, h1 is typically used for a main heading, while h2-h6 are used for subheadings.
 -	In general, paragraphs (<p> are comprised of more than one sentence. In HTML, to create a paragraph you need to have an opening and closing paragraph tags (e.g.,  <p> and </p>).
 -	As such, the types of tags used to add emphasis or provide additional information include, emphasis (<em>), strong emphasis on something (<strong>), short quotes (<q>), and longer quotes (<blockquote>).
 #### Introducing CSS:  
