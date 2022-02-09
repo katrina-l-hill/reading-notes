@@ -34,7 +34,7 @@ I love pizza.
 #### *Table of Contents for Daily Reading Assignments*: <br>
 1.  [class01](./class01.md)
 2.  [class02](/class02.md)
-3.  
+3.  [class03](/class03.md)
 4.  
 5.  
 6.  
