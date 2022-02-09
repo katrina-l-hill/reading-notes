@@ -1,6 +1,6 @@
 # Class 03 - HTML Lists, CSS Boxes, JS Control Flow
 
-## Reading Overview 04
+## Reading Overview 03
 
 ### HTML book:
 #### Lists:
