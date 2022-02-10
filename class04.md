@@ -63,7 +63,7 @@
 - While working in pairs, you can think of one programmer as the “Driver” and the other as the “Navigator.”
 - The job of the Driver is to have hands on the keyboard and type code for what is being figured out between the pair.
 - The Navigator’s job is to direct the Driver on what to type and where.
-- Pair programming has been compared to learning a new language in that each pair will need to learn the fundaments of language skills, i.e., listening, speaking, reading, and writing.
+- Pair programming has been compared to learning a new language in that each pair will need to learn the fundamentals of language skills, i.e., listening, speaking, reading, and writing.
 - When pairs work together, all of these skills are needed in order to successfully work together.
 - Pair programming also teaches the following skills: greater efficiency, engaged collaboration, learning from fellow students, social skills, job readiness, and work environment readiness.
 - A skill in having greater efficiency from pair programming means that both programmers can put their heads together to solve problems.
