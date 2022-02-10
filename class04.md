@@ -2,8 +2,10 @@
 
 ## Reading Overview 04
 
-### HTML book:
-#### Links:
+### HTML book
+
+#### Links
+
     • Links allow you to direct a user from one webpage to another.
     • You can have links go to another webpage on your website or a webpage on an unassociated website.
     • You can add links by typing the Uniform Resource Locator (URL) into an index.html file.
@@ -12,7 +14,9 @@
     • Absolute URLs can be used to link to pages outside of your own website. When using absolute URLs, you must type the whole URL address in the index.html document.
     • Relative URLs can be used to link to other pages within your own website.
     • You can also get more specific with your links if you want to direct someone to an email address.
-#### Layout:
+
+#### Layout
+
     • When you think of layout in software development, you can think of where you want the information displayed and what it looks like.
     • The information you want displayed is located in “elements,” or boxes, on the website. 
     • There are two types of elements in HTML: block-level and inline.
@@ -20,21 +24,27 @@
     • Inline elements are boxes where the text surrounds something, such as img, b, and i.
     • You can use multiple stylesheets in an index.html file to import different types of layouts.
     • Stylesheets can be dedicated to a single style (e.g., tables and topography). 
-#### Positioning:
+
+#### Positioning
+
     • You can position the elements by using the following positions: normal flow, relative positioning, absolute positioning, fixed positioning, and floating elements.
     • Normal flow is a position where the text appears in paragraphs down the page. This is the typical way you’d see text in a webpage.
     • Relative positioning is when you change the normal flow position to one where the text in a box appears indented or tabbed.
     • Absolute positioning is when some boxed text is positioned on top of other text and moves as you move the webpage up and down.
     • Fixed positioning is when boxed text is positioned on top of other text but does not move as you move the webpage up and down. It stays in one place.
     • Floating elements is when boxed text is positioned so that other text is wrapped around it.
-#### Screen Sizes and Resolution:
+
+#### Screen Sizes and Resolution
+
     • People view webpages on different types of devices (e.g., cellphones, tablets, and PCs) so webpages are designed to change the way the information is displayed based on the size of the screen it’s being displayed on.
     • Resolution is related to the number of pixels, or dots, per square inch of the screen. 
     • Low or high resolutions will affect how you can see the information.
     • Using a low resolution will make text big, while using a high resolution will make text look small.
 
-### JavaScript book:
-#### Functions, Methods, & Objects:
+### JavaScript book
+
+#### Functions, Methods, & Objects
+
     • Functions are statements that contain procedures for what your code is supposed to do.
     • They receive information, or input, and return an output based on the statement you told it.
     • Methods are functions that can perform an action on an object it lives within.
@@ -46,7 +56,9 @@
     • There are two types of variable scopes: local and global.
     • Local variables are located inside a function and will only run within that function.
     • Global variables are located outside a function and will run on any function.
-#### Article: 6 Reasons for Pair Programming:
+
+#### Article: 6 Reasons for Pair Programming
+
     • Pair programming is when two programmers work together on the same code. They collaborate to complete a project by working through the code as a team.
     • While working in pairs, you can think of one programmer as the “Driver” and the other as the “Navigator.”
     • The job of the Driver is to have hands on the keyboard and type code for what is being figured out between the pair.
