@@ -37,7 +37,7 @@ I love pizza.
 3.  [class03](/class03.md)
 4.  [class04](/class04.md)
 5.  [class05](/class05.md)
-6.  
+6.  [class06](/class06.md)
 7.  
 8.  
 9.  
