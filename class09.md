@@ -42,4 +42,4 @@
 - Form events are when a user interact with a form element.
 - Mutation events occur when the DOM structure has been changed by a script.
 - Events are triggered when a user interacts with the HTML on the webpage.
-- To trigger an event, you need to follow these three steps, called event handling: 1. Select the element node(s) the script will respond to, 2. Identify which of the node events will trigger the response, and 3. Identify the code you want to run when the event occurs.s
+- To trigger an event, you need to follow these three steps, called event handling: 1. Select the element node(s) the script will respond to, 2. Identify which of the node events will trigger the response, and 3. Identify the code you want to run when the event occurs.
