@@ -9,7 +9,7 @@
 [Reading Notes 5](https://katrina-l-hill.github.io/reading-notes-Read-05/)  
 [Reading Notes 6](https://katrina-l-hill.github.io/reading-notes-Read-06/)  
 [Reading Notes 7](https://katrina-l-hill.github.io/reading-notes-Read-07/)  
-[Reading Notes 8](https://katrina-l-hill.github.io/reading-notes-Read-08/)
+[Reading Notes 8](https://katrina-l-hill.github.io/reading-notes-Read-08/)  
 [Reading Notes 9](https://katrina-l-hill.github.io/reading-notes-Read-09/)
 
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
