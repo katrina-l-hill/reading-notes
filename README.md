@@ -11,6 +11,8 @@
 [Reading Notes 7](https://katrina-l-hill.github.io/reading-notes-Read-07/)  
 [Reading Notes 8](https://katrina-l-hill.github.io/reading-notes-Read-08/)  
 [Reading Notes 9](https://katrina-l-hill.github.io/reading-notes-Read-09/)
+[Reading Notes 10](https://katrina-l-hill.github.io/reading-notes-Read-10/)
+
 
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
@@ -42,7 +44,7 @@ I love pizza.
 7.  [class07](/class07.md)
 8.  [class08](/class08.md)
 9.  [class09](/class09.md)
-10.  
+10. [class10](/class10.md) 
 11.  
 12.  
 13.  
