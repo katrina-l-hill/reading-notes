@@ -10,7 +10,7 @@
 [Reading Notes 6](https://katrina-l-hill.github.io/reading-notes-Read-06/)  
 [Reading Notes 7](https://katrina-l-hill.github.io/reading-notes-Read-07/)  
 [Reading Notes 8](https://katrina-l-hill.github.io/reading-notes-Read-08/)  
-[Reading Notes 9](https://katrina-l-hill.github.io/reading-notes-Read-09/)
+[Reading Notes 9](https://katrina-l-hill.github.io/reading-notes-Read-09/)  
 [Reading Notes 10](https://katrina-l-hill.github.io/reading-notes-Read-10/)
 
 
