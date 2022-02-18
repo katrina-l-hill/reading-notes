@@ -1,4 +1,4 @@
-# Class 10 – Error Handling & Debugging Assignment
+# Class 10 – Error Handling & Debugging
 
 ## Reading Overview 10
 
