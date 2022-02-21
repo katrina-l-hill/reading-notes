@@ -1,6 +1,6 @@
-# Class 09 – Forms and JS Events
+# Class 11 – Assorted Topics
 
-## Reading Overview 09
+## Reading Overview 11
 
 ## HTML book
 
