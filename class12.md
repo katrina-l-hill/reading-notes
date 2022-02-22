@@ -1,4 +1,4 @@
-# Class 12 – Docs for the HTML <canvas> Element & Chart.js
+# Class 12 – Docs for the HTML canvas Element & Chart.js
 
 ## Reading Notes Overview 12
 
@@ -13,7 +13,7 @@
   
 #### Canvas API Basic Usage
 
-- The canvas element resembles the im> element, and the only clear difference is the <canvas> element doesn’t have the “src” or “alt” attributes.
+- The canvas element resembles the im> element, and the only clear difference is the canvas element doesn’t have the “src” or “alt” attributes.
 - The canvas element only has the “width” and “height” attributes, which are optional and can also be set up using DOM properties.
 - The default canvas settings for width and height are 300 pixels wide and 150 pixels high.
 - You can use CS to size the canvas element.
