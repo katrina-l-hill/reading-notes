@@ -14,9 +14,9 @@
 [Reading Notes 10](https://katrina-l-hill.github.io/reading-notes-Read-10/)  
 [Reading Notes 11](https://katrina-l-hill.github.io/reading-notes-Read-11/)  
 [Reading Notes 12](https://katrina-l-hill.github.io/reading-notes-Read-12/)  
-[Reading Notes 13](https://katrina-l-hill.github.io/reading-notes-Read-13/)
-[Reading Notes 14a](https://katrina-l-hill.github.io/reading-notes-Read-14a/)
-[Reading Notes 14b](https://katrina-l-hill.github.io/reading-notes-Read-14b/)
+[Reading Notes 13](https://katrina-l-hill.github.io/reading-notes-Read-13/)  
+[Reading Notes 14a](https://katrina-l-hill.github.io/reading-notes-Read-14a/)  
+[Reading Notes 14b](https://katrina-l-hill.github.io/reading-notes-Read-14b/)  
 
 
 
@@ -53,8 +53,8 @@ I love pizza.
 10. [class10](/class10.md) 
 11. [class11](/class11.md) 
 12. [class12](/class12.md) 
-13. [class13](/class13.md)
-14a.[class14a](/class14a.md)
-14b.[class14b[(/class14b.md)
+13. [class13](/class13.md)  
+14a.[class14a](/class14a.md)  
+14b.[class14b[(/class14b.md)  
 15.  
 16. 
