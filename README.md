@@ -1,7 +1,7 @@
-# My GitHub Reading Notes Page
-(This page includes all my reading notes)
+# Reading Notes
+- This website includes reading notes for my courses at Code Fellows.
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 [Reading Notes 1](https://katrina-l-hill.github.io/reading-notes-Read-01/)  
 [Reading Notes 2](https://katrina-l-hill.github.io/reading-notes-Read-02/)  
 [Reading Notes 3](https://katrina-l-hill.github.io/reading-notes-Read-03/)  
@@ -38,7 +38,7 @@ I love pizza.
 
 ---
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 #### *Table of Contents for Daily Reading Assignments*: <br>
 1.  [class01](./class01.md)
@@ -58,3 +58,13 @@ I love pizza.
   [class14b](/class14b.md)
 15.
 16. 
+
+
+## Code 301 - Intermediate Software Development
+
+
+
+
+
+
+## Code 401 - Advanced Software Development
