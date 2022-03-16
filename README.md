@@ -64,7 +64,7 @@ I love pizza.
 ## Code 301 - Intermediate Software Development
 [Reading Notes 1](/301-class01.md)  
 [Reading Notes 2](/301-class02.md)  
-[Reading Notes 3]  
+[Reading Notes 3](/301-class03.md)    
 [Reading Notes 4]  
 [Reading Notes 5]  
 [Reading Notes 6]  
