@@ -71,7 +71,7 @@ I love pizza.
 [Reading Notes 7](/301-class07.md)  
 [Reading Notes 8](/301-class08.md)    
 [Reading Notes 9](/301-class09.md)    
-[Reading Notes 10]  
+[Reading Notes 10](/301-class10.md)    
 [Reading Notes 11]  
 [Reading Notes 12]  
 [Reading Notes 13]  
