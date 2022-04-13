@@ -29,8 +29,8 @@
 
 #### Bio:  
 Katrina Hill, she/her, Snohomish, WA, PST  
-US Navy Veteran, former IT network administrator, Environmental Scientist by education but currently a substitute teacher. I moved to WA with my family last year.  
-Windows 10 Pro, version 20H2  
+US Navy Veteran, former IT network administrator, Environmental Scientist by education but currently a substitute teacher. I moved to WA with my family in 2021.  
+I'm using Windows 11 Pro, version 21H2.
 I'm excited to learn something new and to get back into the computer world.    
 GitHub: https://github.com/katrina-l-hill    
 I love pizza.  
@@ -81,4 +81,53 @@ I love pizza.
 
 ---
 
-## Code 401 - Advanced Software Development
+## `Code 401 - Advanced Software Development`
+
+### _The reading notes for this course will center around Python and related material._
+
+#### **Table of Contents for Daily Reading Assignments**: <br>
+1.  [class01]  
+2.  [class02]  
+3.  [class03]  
+4.  [class04]  
+5.  [class05]  
+6.  [class06]  
+7.  [class07]  
+8.  [class08]  
+9.  [class09]  
+10. [class10]  
+11. [class11]  
+12. [class12]  
+13. [class13]  
+14. [class14]  
+15. [class15]  
+16. [class16]  
+17. [class17]  
+18. [class18]  
+19. [class19]  
+20. [class20]  
+21. [class21]  
+22. [class22]  
+23. [class23]  
+24. [class24]  
+25. [class25]  
+26. [class26]  
+27. [class27]  
+28. [class28]  
+29. [class29]  
+30. [class30]  
+31. [class31]  
+32. [class32]  
+33. [class33]  
+34. [class34]  
+35. [class35]  
+36. [class36]  
+37. [class37]  
+38. [class38]  
+39. [class39]  
+40. [class40]  
+41. [class41]  
+42. [class42]  
+43. [class43]  
+
+
