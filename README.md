@@ -86,6 +86,7 @@ I love pizza.
 ### _The reading notes for this course will center around Python and related material._
 
 #### **Table of Contents for Daily Reading Assignments**: <br>
+[Pre-work:](/401-prework.md) 
 1.  [class01]  
 2.  [class02]  
 3.  [class03]  
