@@ -87,7 +87,7 @@ I love pizza.
 
 #### **Table of Contents for Daily Reading Assignments**: <br>
    [Pre-work reading - The Growth Mindset](/401-prework.md)   
-   [Pre-work reading - The Command Line](/401-prework-2.md)
+   [Pre-work reading - The Command Line](/401-prework-2.md)  
    [Pre-work reading - SQL Practice](/401-prework-3.md)
 1.  [class01]  
 2.  [class02]  
