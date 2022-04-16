@@ -119,5 +119,17 @@
 - The DROP TABLE statement is used to completely delete an entire table and it’s data as well as the schema.  
 - A potential issue with deleting a table and schema is that there could be dependent data in other tables that use the data being deleted. You will need to remove the connection between the dependent table or remove the dependent table as well.  
 
+#### Screenshots of Completed Task Lists
 
-
+[Task List 1](./assets/img/bolt-task-1.png)  
+[Task List 2](./assets/img/bolt-task-2.png)  
+[Task List 3](./assets/img/bolt-task-3.png)  
+[Task List 4](./assets/img/bolt-task-4.png)  
+[Task List 5](./assets/img/bolt-task-5.png)  
+[Task List 6](./assets/img/bolt-task-6.png)  
+[Task List 13](./assets/img/bolt-task-13.png)  
+[Task List 14](./assets/img/bolt-task-14.png)  
+[Task List 15](./assets/img/bolt-task-15.png)  
+[Task List 16](./assets/img/bolt-task-16.png)  
+[Task List 17](./assets/img/bolt-task-17.png)  
+[Task List 18](./assets/img/bolt-task-18.png)
