@@ -41,4 +41,4 @@
 
 ## Cheat Sheet
 
-- Main commands: pwd, ls [path], cd [path], ~ (tilde), . (dot), .. (dot) (dot), \, CTRL + C, kill [path], CTRL + Z, man <command>, man -k <search term>, q (quit man pages), mkdir <directory name>, rmdir <directory name>, touch <file name>, cp <source> <destination>, mv <source> <destination>, rm <path>, wildcards (*, ?, []).  
+- Main commands: pwd, ls [path], cd [path], ~ (tilde), . (dot), .. (dot) (dot), \, CTRL + C, kill [path], CTRL + Z, man \<command>, man -k \<search term>, q (quit man pages), mkdir \<directory name>, rmdir \<directory name>, touch \<file name>, cp \<source> \<destination>, mv \<source> \<destination>, rm \<path>, wildcards (*, ?, []).  
