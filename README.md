@@ -89,7 +89,7 @@ I love pizza.
    [Pre-work reading - The Growth Mindset](/401-prework.md)   
    [Pre-work reading - The Command Line](/401-prework-2.md)  
    [Pre-work reading - SQL Practice](/401-prework-3.md)
-1.  [class01]  
+1.  [class01](/401-class01.md)  
 2.  [class02]  
 3.  [class03]  
 4.  [class04]  
