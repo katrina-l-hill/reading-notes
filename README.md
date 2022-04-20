@@ -91,7 +91,7 @@ I love pizza.
    [Pre-work reading - SQL Practice](/401-prework-3.md)
 1.  [class01](/401-class01.md)  
 2.  [class02](/401-class02.md)  
-3.  [class03]  
+3.  [class03](/401-class03.md)  
 4.  [class04]  
 5.  [class05]  
 6.  [class06]  
