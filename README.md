@@ -92,7 +92,7 @@ I love pizza.
 1.  [class01](/401-class01.md)  
 2.  [class02](/401-class02.md)  
 3.  [class03](/401-class03.md)  
-4.  [class04]  
+4.  [class04](/401-class04.md)  
 5.  [class05]  
 6.  [class06]  
 7.  [class07]  
