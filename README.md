@@ -90,12 +90,10 @@ I love pizza.
 
 ### *The reading notes for this course will center around Python and related material.*
 
-#### **Table of Contents for Daily Reading Assignments**: <br>
-
+#### **Table of Contents for Daily Reading Assignments**:<br>
    [Pre-work reading - The Growth Mindset](/401-prework.md)
    [Pre-work reading - The Command Line](/401-prework-2.md)  
    [Pre-work reading - SQL Practice](/401-prework-3.md)
-
 1. [class01](/401-class01.md)  
 2. [class02](/401-class02.md)  
 3. [class03](/401-class03.md)  
