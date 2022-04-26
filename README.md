@@ -23,7 +23,7 @@
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
 ### *Reminders to myself*
-  
+
 - [ ]  believe that I can do anything I set my mind to 🙂,
 - [ ]  stay focused,
 - [ ]  lastly, take my time.
@@ -42,7 +42,7 @@ I love pizza.
 
 ## Code 201 - Foundations of Software Development
 
-### *Table of Contents for Daily Reading Assignments* <br>
+#### *Table of Contents for Daily Reading Assignments*: <br>
 
 1. [class01](./class01.md)
 2. [class02](/class02.md)
@@ -67,7 +67,7 @@ I love pizza.
 
 ## Code 301 - Intermediate Software Development
 
-[Reading Notes 1](/301-class01.md)  
+[Reading Notes 1](/301-class01.md)
 [Reading Notes 2](/301-class02.md)  
 [Reading Notes 3](/301-class03.md)  
 [Reading Notes 4](/301-class04.md)  
@@ -90,11 +90,11 @@ I love pizza.
 
 ### The reading notes for this course will center around Python and related material._
 
-#### **Table of Contents for Daily Reading Assignments**: <br>
+#### **Table of Contents for Daily Reading Assignments**:<br>
 
-   [Pre-work reading - The Growth Mindset](/401-prework.md)  
+   [Pre-work reading - The Growth Mindset](/401-prework.md)
    [Pre-work reading - The Command Line](/401-prework-2.md)  
-   [Pre-work reading - SQL Practice](/401-prework-3.md)  
+   [Pre-work reading - SQL Practice](/401-prework-3.md)
 
 1. [class01](/401-class01.md)  
 2. [class02](/401-class02.md)  
