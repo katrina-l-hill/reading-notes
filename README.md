@@ -1,9 +1,6 @@
 # Reading Notes
-
 - This website includes reading notes for my courses at Code Fellows.
-
 ## Code 102 - Intro to Software Development
-
 [Reading Notes 1](https://katrina-l-hill.github.io/reading-notes-Read-01/)  
 [Reading Notes 2](https://katrina-l-hill.github.io/reading-notes-Read-02/)  
 [Reading Notes 3](https://katrina-l-hill.github.io/reading-notes-Read-03/)  
@@ -23,13 +20,11 @@
 **Growth mindset** is the belief that people's most basic abilities can be developed through the actions of hard work and dedication.
 
 #### *Reminders to myself*  
-
 - [ ]  believe that I can do anything I set my mind to 🙂,
 - [ ]  stay focused,
 - [ ]  lastly, take my time.
 
 #### Bio  
-
 Katrina Hill, she/her, Snohomish, WA, PST  
 US Navy Veteran, former IT network administrator, Environmental Scientist by education but currently a substitute teacher. I moved to WA with my family in 2021.  
 I'm using Windows 11 Pro, version 21H2.
@@ -41,9 +36,7 @@ I love pizza.
 ---
 
 ## Code 201 - Foundations of Software Development
-
 #### *Table of Contents for Daily Reading Assignments*: <br>
-
 1. [class01](./class01.md)
 2. [class02](/class02.md)
 3. [class03](/class03.md)
@@ -66,22 +59,21 @@ I love pizza.
 ---
 
 ## Code 301 - Intermediate Software Development
-
-[Reading Notes 1](/301-class01.md)  
+[Reading Notes 1](/301-class01.md)
 [Reading Notes 2](/301-class02.md)  
-[Reading Notes 3](/301-class03.md)
+[Reading Notes 3](/301-class03.md)  
 [Reading Notes 4](/301-class04.md)  
 [Reading Notes 5](/301-class05.md)  
 [Reading Notes 6](/301-class06.md)  
 [Reading Notes 7](/301-class07.md)  
-[Reading Notes 8](/301-class08.md)
+[Reading Notes 8](/301-class08.md)  
 [Reading Notes 9](/301-class09.md)  
 [Reading Notes 10](/301-class10.md)  
 [Reading Notes 11](/301-class11.md)  
-[Reading Notes 12](/301-class12.md)
-[Reading Notes 13](/301-class13.md)
-[Reading Notes 14](/301-class14.md)
-[Reading Notes 15](/301-class15.md)
+[Reading Notes 12](/301-class12.md)  
+[Reading Notes 13](/301-class13.md)  
+[Reading Notes 14](/301-class14.md)  
+[Reading Notes 15](/301-class15.md)  
 [Reading Notes 16]  
 
 ---
