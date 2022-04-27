@@ -103,7 +103,7 @@ I love pizza.
 5. [class05](/401-class05.md)  
 6. [class06](/401-class06.md)  
 7. [class07](/401-class07.md)  
-8. [class08]  
+8. [class08](/401-class08.md)  
 9. [class09]  
 10. [class10]  
 11. [class11]  
