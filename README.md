@@ -35,14 +35,16 @@ US Navy Veteran, former IT network administrator, Environmental Scientist by edu
 I'm using Windows 11 Pro, version 21H2.
 I'm excited to learn something new and to get back into the computer world.  
 GitHub: <https://github.com/katrina-l-hill>  
+
 I love pizza.  
+
 <img src="https://user-images.githubusercontent.com/98134026/150919778-2179cd29-66fe-4268-bd13-8e70d46e9595.jpg" alt="pizza" style="width:100px;"/>
 
 ---
 
 ## Code 201 - Foundations of Software Development
 
-### *Table of Contents for Daily Reading Assignments* <br>
+### *Table of Contents for Daily Reading Assignments*  
 
 1. [class01](./class01.md)
 2. [class02](/class02.md)
@@ -90,7 +92,7 @@ I love pizza.
 
 ### The reading notes for this course will center around Python and related material._
 
-#### **Table of Contents for Daily Reading Assignments**: <br>
+#### **Table of Contents for Daily Reading Assignments**  
 
    [Pre-work reading - The Growth Mindset](/401-prework.md)  
    [Pre-work reading - The Command Line](/401-prework-2.md)  
@@ -103,7 +105,7 @@ I love pizza.
 5. [class05](/401-class05.md)  
 6. [class06](/401-class06.md)  
 7. [class07](/401-class07.md)  
-8. [class08]  
+8. [class08](/401-class08.md)  
 9. [class09]  
 10. [class10]  
 11. [class11]  
