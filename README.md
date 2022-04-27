@@ -90,7 +90,7 @@ I love pizza.
 
 ## `Code 401 - Advanced Software Development`
 
-### The reading notes for this course will center around Python and related material._
+### The reading notes for this course will center around Python and related material
 
 #### **Table of Contents for Daily Reading Assignments**  
 
