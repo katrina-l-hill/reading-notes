@@ -112,8 +112,8 @@ I love pizza.
 12. [class12](/401-class12.md)  
 13. [class13](/401-class13.md)  
 14. [class14](/401-class14.md)  
-15. [class15]  
-16. [class16]  
+15. [class15](/401-class15.md)  
+16. [class16](/401-class16.md)  
 17. [class17]  
 18. [class18]  
 19. [class19]  
