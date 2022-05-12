@@ -18,7 +18,7 @@
 - The default canvas settings for width and height are 300 pixels wide and 150 pixels high.
 - You can use CS to size the canvas element.
 - It’s a good idea to apply an “id” attribute to the canvas element so it’s easier to identify in the script.
-- Providing fallback content with the canvas element makes it easier for older browsers to display content. 
+- Providing fallback content with the canvas element makes it easier for older browsers to display content.  
 - If a browser doesn’t support canvas, then it will ignore the content inside the container and render the content normally.
   
 #### Drawing shapes with canvas

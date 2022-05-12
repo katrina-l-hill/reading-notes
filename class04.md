@@ -18,12 +18,12 @@
 #### Layout
 
 - When you think of layout in software development, you can think of where you want the information displayed and what it looks like.
-- The information you want displayed is located in “elements,” or boxes, on the website. 
+- The information you want displayed is located in “elements,” or boxes, on the website.  
 - There are two types of elements in HTML: block-level and inline.
 - Block-level elements are boxes that have text start on new lines. Typically, you’ll see tags like the following tags for block-level elements, h1, p, ul, and li.
 - Inline elements are boxes where the text surrounds something, such as img, b, and i.
 - You can use multiple stylesheets in an index.html file to import different types of layouts.
-- Stylesheets can be dedicated to a single style (e.g., tables and topography). 
+- Stylesheets can be dedicated to a single style (e.g., tables and topography).  
 
 #### Positioning
 
@@ -37,7 +37,7 @@
 #### Screen Sizes and Resolution
 
 - People view webpages on different types of devices (e.g., cellphones, tablets, and PCs) so webpages are designed to change the way the information is displayed based on the size of the screen it’s being displayed on.
-- Resolution is related to the number of pixels, or dots, per square inch of the screen. 
+- Resolution is related to the number of pixels, or dots, per square inch of the screen.  
 - Low or high resolutions will affect how you can see the information.
 - Using a low resolution will make text big, while using a high resolution will make text look small.
 
