@@ -7,7 +7,7 @@
 ### Images
 
 - To help your webpage load smoothly, you should specify the size of images since the HTML and CSS code load first.
-- Use the <float> property to align images instead of the <img> element’s <align> attribute. 
+- Use the <float> property to align images instead of the <img> element’s <align> attribute.
 - You can add the float property to the class that was created to represent the image size.
 - You can also create new classes of <align-left> and <align-right> in the image element.
 - Using the <background-image> property you can add an image behind the whole webpage or only to a part of the page.
@@ -16,13 +16,13 @@
 
 ### Practical Information
 
-- Search Engine Optimization (SEO) is trying to get your site to appear at the top of web search engine results when a user searches for a topic. 
-- The idea is that, as a developer, you’ll try to figure out what words people will use to search for a topic to find your website. 
+- Search Engine Optimization (SEO) is trying to get your site to appear at the top of web search engine results when a user searches for a topic.  
+- The idea is that, as a developer, you’ll try to figure out what words people will use to search for a topic to find your website.  
 - There are two things you can do to implement SEO into your website: on-page and off-page techniques.
 - On-page techniques are things you can do specifically to your website to improve the results in a search engine.
 - Off-page techniques is when you link your site to other sites. This will then allow your site to appear in the search results for those sites as well as your own.
 - Determining what keywords to incorporate into your website in order for it to be found in a search is important. In order to do this, you can follow six steps: 1. Brainstorm, 2. Organize, 3. Research, 4. Compare, 5. Refine, 6. Map.
-- Data analytics play an important role in understanding the users that visit your website. 
+- Data analytics play an important role in understanding the users that visit your website.  
 - In order to effectively use data analytics, you’ll need to know: 1. How many visitors are coming to your site, 2. What the visitors are looking at, and 3. Where the visitors are coming from .
 - Before you can set up a website, you need come up with a domain name or website address, and who will host your website so other people can see it.
 - Once you’re ready for your website to go live so other people can see it, you’ll need to transfer the code and images from your computer to your website host. To do that you’ll need to do a file transfer.

@@ -2,18 +2,18 @@
 
 ## Reading Overview 07
 
-### Domain Modeling:
+### Domain Modeling
 
 - Domain modeling is a model of a domain that shows the process, attributes, behaviors, and constrains of a problem domain.
 - A domain model can be a communication tool if it’s articulated well and can validate a specific problem.
 - A constructor function allows you to define properties between many objects.
 - The construction function is defined using a function expression.
-- A function expression is used to define a function. 
+- A function expression is used to define a function.  
 - Methods can be added to a construction function’s prototype.
 
-### HTML book:
+### HTML book
 
-#### Tables:
+#### Tables
 
 - A table is information laid out in tables and rows in a grid format.
 - The rows in the grids have cells called table cells and are created with the table data (td) and table heading (th) tags.
@@ -21,9 +21,9 @@
 - The “width” attribute can be used to change the width and spacing of the table.
 - The “border” attribute can be used to change the border and background.
 
-### JavaScript book:
+### JavaScript book
 
-#### Functions, Methods, and Objects:
+#### Functions, Methods, and Objects
 
 - To create a blank object, the “new” keyword and object constructor can be used.
 - Properties and methods can be added to the new object.

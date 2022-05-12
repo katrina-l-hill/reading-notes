@@ -7,7 +7,7 @@
 - In native applications, an abstraction layer for storing and retrieving application-specific data is usually provided by the operating system.
 - The values may be stored in different types of files on the computer, such as the registry, INI files, XML files, or other similar files.
 - Cookies were invented in the early days of the internet and can be used to provide local storage for some data.
-- The downsides of cookies are that they are included in every HTTP request, so this slows down web applications by constantly transmitting data over and over. 
+- The downsides of cookies are that they are included in every HTTP request, so this slows down web applications by constantly transmitting data over and over.  
 - Another downside of cookies being included in every HTTP request is that it sends unencrypted data over the internet unless your whole web application is served over Secure Sockets Layer (SSL), which is a standard security technology for encrypting data.
 
 ### A Brief History of Local Storage Hacks before HTML 5
@@ -32,6 +32,6 @@
 
 ### Limitations in Current Browsers
 
-- The limitation for storage space at each origin is 5 megabytes. This storage is for strings, not data in its original format. 
+- The limitation for storage space at each origin is 5 megabytes. This storage is for strings, not data in its original format.  
 - An exception of “QUOTA_EXCEEDED_ERR” will be thrown if you exceed the 5 megabytes limitation.
 - As of this article, there is no browser that will support giving more storage space above 5 megabytes.
