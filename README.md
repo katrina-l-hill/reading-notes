@@ -117,14 +117,14 @@ I love pizza.
 17. [class17](/401-class17.md)  
 18. [class18](/401-class18.md)  
 19. [class19](/401-class19.md)  
-20. [class20]  
-21. [class21]  
-22. [class22]  
-23. [class23]  
-24. [class24]  
-25. [class25]  
+20. [class20](midterm week)  
+21. [class21](midterm week)  
+22. [class22](midterm week)  
+23. [class23](midterm week)  
+24. [class24](midterm week)  
+25. [class25](midterm week)  
 26. [class26](/401-class26.md)  
-27. [class27]  
+27. [class27](/401-class27.md)  
 28. [class28]  
 29. [class29]  
 30. [class30]  
