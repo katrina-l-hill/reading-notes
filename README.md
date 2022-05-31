@@ -129,7 +129,7 @@ I love pizza.
 29. [class29](skipped for now)  
 30. [class30](/401-class30.md)  
 31. [class31](/401-class31.md)  
-32. [class32]  
+32. [class32](/401-class32.md)  
 33. [class33]  
 34. [class34]  
 35. [class35]  
