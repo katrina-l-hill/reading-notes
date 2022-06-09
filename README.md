@@ -136,7 +136,7 @@ I love pizza.
 36. [class36](/401-class36.md)  
 37. [class37](/401-class37.md)  
 38. [class38](/401-class38.md)  
-39. [class39]  
+39. [class39](/401-class39.md)  
 40. [class40]  
 41. [class41]  
 42. [class42]  
