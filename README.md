@@ -139,5 +139,5 @@ I love pizza.
 39. [class39](/401-class39.md)  
 40. [class40](no assignment due)  
 41. [class41](/401-class41.md)  
-42. [class42]  
+42. [class42](/401-class42.md)  
 43. [class43]  
