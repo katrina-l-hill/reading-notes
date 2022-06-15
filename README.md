@@ -141,4 +141,4 @@ I love pizza.
 41. [class41](/401-class41.md)  
 42. [class42](/401-class42.md)
 42. [class42](/401-class42-ethics-in-tech.md)  
-43. [class43]  
+43. [class43](/401-class43.md)  
